@@ -7,7 +7,7 @@
 edicao pelo editor  do git hub
 
 
-so pq gostei da brincadeiras
+só pq gostei da brincadeiras
 
 
 
