@@ -5,4 +5,4 @@
  alteracao para textar push
  
 edicao pelo editor  do git hub
-´so pq gostei da brincadeira
+´so pq gostei da brincadeiras
